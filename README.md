@@ -108,17 +108,3 @@ Some of the technologies I have worked with are below. These only include
   <a href="https://github.com/iivvaannxx/github-readme-stats#gh-dark-mode-only"><img hspace="6" align="center" src="https://github-readme-stats.vercel.app/api?username=iivvaannxx&amp;show_icons=true&amp;theme=catppuccin_mocha#gh-dark-mode-only" alt="Ivan&#39;s GitHub stats-Dark"></a>
   <a href="https://github.com/iivvaannxx/github-readme-stats#gh-light-mode-only"><img hspace="6" align="center" src="https://github-readme-stats.vercel.app/api?username=iivvaannxx&amp;show_icons=true&amp;theme=default#gh-light-mode-only" alt="Ivan&#39;s GitHub stats-Light"></a>
 </div>
-
-
-## 📌 Pinned
-
-GitHub won't let me pin more than 6 repositories, but I want to pin a couple more. These are:
-
-<div align="center">
-  <a href="https://github.com/iivvaannxx/isolated">
-    <img hspace="6" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iivvaannxx&amp;repo=isolated&amp;theme=catppuccin_mocha&description_lines_count=2" alt="Isolated">
-  </a>
-  <a href="https://github.com/iivvaannxx/the-izland">
-    <img hspace="6" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iivvaannxx&amp;repo=the-izland&amp;theme=catppuccin_mocha&description_lines_count=2" alt="The Izland">
-  </a>
-</div>
