@@ -69,15 +69,12 @@ Some of the technologies I worked with are:
     </tr>
     <tr>
       <td>Frontend</td>
-      <td>
-      <p>
+      <td valign="center">
         <a href="https://astro.build"><img hspace="6" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Astro"></a>
         <a href="https://svelte.dev"><img hspace="6" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" alt="Svelte"></a>
         <a href="https://react.dev"><img hspace="6" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"></a>
         <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-white?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=black&amp;logoWidth=16" alt="Three.js"></a>
-        <a href="https://ui.shadcn.com"><img hspace="6" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&amp;logo=shadcnui&amp;logoColor=white" alt="Shadcn"></a>
         <a href="https://tailwindcss.com"><img hspace="6" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"></a>
-      </p>
       </td>
     </tr>
     <tr>
