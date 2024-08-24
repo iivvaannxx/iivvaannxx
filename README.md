@@ -33,7 +33,7 @@
 
 # 👋🏻 Hi There!
 
-My name is Ivan, I'm a 24 years old software developer based in Barcelona. I have a **Bachelor in Game Design and Development**, although I am not planning on pursuing games as a professional career. Instead, I am focused on becoming specialized in **backend development and cloud engineering**. Thanks to my background in game development, I have a strong foundation in software engineering, and I am able to apply my knowledge to a wide range of technologies and industries.
+My name is Ivan, I'm a software developer based in Barcelona. I have a **Bachelor in Game Design and Development**, although I am not planning on pursuing games as a professional career. Instead, I am focused on becoming specialized in **backend development and cloud engineering**. Thanks to my background in game development, I have a strong foundation in software engineering, and I am able to apply my knowledge to a wide range of technologies and industries.
 
 ## 🌟 Languages
 
